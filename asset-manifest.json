@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0edc4eb.css",
+    "main.js": "/static/js/main.5952ef5c.js",
+    "static/js/787.2a7302ab.chunk.js": "/static/js/787.2a7302ab.chunk.js",
+    "static/media/swiggy.png": "/static/media/swiggy.a0314c9dd9a740723919.png",
+    "static/media/redBus.png": "/static/media/redBus.f278ec622ca881d61f09.png",
+    "static/media/profile-img.JPG": "/static/media/profile-img.3bbf5ec9c2bb33f3f308.JPG",
+    "static/media/Vikram's Resume 0.1.pdf": "/static/media/Vikram's Resume 0.1.644716c5acdda77d91ab.pdf",
+    "static/media/Trello.png": "/static/media/Trello.916b8fb5fcef5e20e3de.png",
+    "static/media/Drum-kit.png": "/static/media/Drum-kit.bec454a33137d059c7c0.png",
+    "static/media/text-utlies.png": "/static/media/text-utlies.cd98b87f18d1abda8a93.png",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.3118c1f749762ef15334.jpg",
+    "static/media/Vj.png": "/static/media/Vj.92ac1dc5411ff18d3c6e.png",
+    "static/media/cal.png": "/static/media/cal.14483873234dc14a16bf.png",
+    "index.html": "/index.html",
+    "main.f0edc4eb.css.map": "/static/css/main.f0edc4eb.css.map",
+    "main.5952ef5c.js.map": "/static/js/main.5952ef5c.js.map",
+    "787.2a7302ab.chunk.js.map": "/static/js/787.2a7302ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0edc4eb.css",
+    "static/js/main.5952ef5c.js"
+  ]
+}
